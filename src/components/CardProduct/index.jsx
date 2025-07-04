@@ -4,7 +4,7 @@ export const CardProduct = ({ products }) => {
             {products.map((product) => (
                 <div
                     key={product.id}
-                    className="flex flex-col rounded-[20px] overflow-hidden w-full"
+                    className="flex flex-col rounded-[20px] overflow-hidden"
                 >
                     <img
                         src={product.image}
