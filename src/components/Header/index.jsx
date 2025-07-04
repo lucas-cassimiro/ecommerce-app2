@@ -42,7 +42,7 @@ export const Header = () => {
 
                 <div className="flex items-center gap-4">
                     <button className="bg-purple-light px-8 py-4 rounded-sm hidden sm:block">
-                        Entrar ou cadastrar-seeeeeee
+                        Entraaaaaar ou cadastrar-seeeeeee
                     </button>
                     <button className="sm:hidden">
                         <img src={User} alt="Ícone de usuário" />
