@@ -8,7 +8,7 @@ export const Footer = () => {
                             Institucional
                         </h2>
                         <li clas>
-                            <a href="#">Home</a>
+                            <a href="#">Homee</a>
                         </li>
                         <li>
                             <a href="#">Sobre</a>
